@@ -42,8 +42,9 @@ main {
     text-align: center;
 }
 
-.card-order-info h3 {
+.card-order-info h1 {
     font-weight: 900;
+    font-size: 1.5rem;
 }
 
 .card-order-info p {
